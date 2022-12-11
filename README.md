@@ -8,7 +8,7 @@ Click demo to try it by yourself!
 ## Mera-Bharat Demo Link
 
 You can view the site here
-[Click Me]()
+[Click Me](https://vermillion-quokka-8d5d39.netlify.app)
 
 ## Topics
 
